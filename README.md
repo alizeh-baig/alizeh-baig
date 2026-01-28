@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ad/ec/97/adec9757e7b93ede5126a4e9f875debd.gif" width="1000"/>
+  <img src="https://i.pinimg.com/originals/ad/ec/97/adec9757e7b93ede5126a4e9f875debd.gif" width="600"/>
 </div>
 
 # Hi, I'm Alizeh Baig! 👋 ✨
