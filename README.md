@@ -35,7 +35,7 @@ I am a passionate **Software Engineering Student** with a love for creating beau
 
 ---
 
-### ✨ My Journey So Far...
+### ✨ My Journey So Far....
 | Focus | Status |
 | :--- | :--- |
 | **Web Dev** | Building responsive UI/UX 🌐 |
